@@ -1,0 +1,8 @@
+# Ignoriši sve fajlove i foldere u repozitorijumu
+*
+
+# Izuzmi sam .gitignore fajl
+!.gitignore
+
+# Izuzmi tvoju notebook svesku
+!02_Priprema_Podataka_Za_Masinsko_Ucenje.ipynb
